@@ -1,0 +1,42 @@
+.nav-link{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  font-size: 17px;
+  padding: 0.7em 2.7em;
+  font-weight: 500;
+  background: #1f2937;
+  color: white;
+  border: none;
+  position: relative;
+  overflow: hidden;
+  border-radius: 0.6em;
+  cursor: pointer;
+  margin: 15px;
+  
+}
+#header{
+  background-color:#FFF7F1;
+}
+#hero{
+  background-color: #FFE4C9;
+
+}
+.logo-name{
+  margin-left: 50px;
+}
+#footer{
+  background-color: #E78895;
+}
+#contacte-hero{
+  background-color: #F1E4C3;
+  background-color:  #635985;
+}
+#carouselExampleIndicators{
+  width: 60%;
+}
+.carousel-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
